@@ -6,3 +6,5 @@ Over the past decade, bicycle-sharing systems have been growing in number and po
 In this project, I will use data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. I will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 Randomly selected data for the first six months of 2017 are provided for all three cities.
 
+
+This project was completed as part of Udacity's Data Analyst Nanodegree certification.
